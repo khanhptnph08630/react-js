@@ -1,0 +1,114 @@
+{
+  "cateProducts": [
+    {
+      "name": "Men's",
+      "id": 1
+    },
+    {
+      "name": "Women's",
+      "id": 2
+    },
+    {
+      "name": "Kid's",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "cateId": "2",
+      "name": "ÁO PHÔNG NAM1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-15bc5.appspot.com/o/images%2F8ts20s021-sw001-1.jpg?alt=media&token=ff2c93a2-41dd-4eb5-97dd-4f16750bd680",
+      "price": "209.300₫",
+      "content": "<p>Áo phông chất liệu cotton.<br>Phom regular, cổ tròn, tay cộc.<br>Có hình in.<br>Kiểu dáng năng động, thoải mái. Thích hợp mặc nhiều hoàn cảnh.<br>Phù hợp mặc mùa hè.<br>Kết hợp với quần sóoc, jeans…với giày thể thao</p>",
+      "id": 1
+    },
+    {
+      "cateId": "2",
+      "name": "ÁO PHÔNG UNISEX",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-15bc5.appspot.com/o/images%2F8ts19s076-sa235--1.jpg?alt=media&token=cd5e74f6-93fa-4703-b272-f9beda94312a",
+      "price": "129.000₫",
+      "content": "<p>Phù hợp mặc mùa hè. Kiểu dáng đơn giản, năng động . Thích hợp mặc nhiều hoàn cảnh. Kết hợp với quần sóoc, jeans…với giày thể thao</p>",
+      "id": 2
+    },
+    {
+      "cateId": "2",
+      "name": "ÁO PHÔNG UNISEX",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-15bc5.appspot.com/o/images%2F8ts19s076-sy122--thumb_1.jpg?alt=media&token=0718dc98-5e91-420a-97dc-1b74e3632f53",
+      "price": "139.300₫",
+      "content": "<p>- Áo phông chất liệu cotton trơn.</p>",
+      "id": 4
+    },
+    {
+      "cateId": "1",
+      "name": "ÁO PHÔNG NAM ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-15bc5.appspot.com/o/images%2F8ts20s035-sb792-1-thumb.jpg?alt=media&token=89db9c38-78d2-4b71-9b1c-8680c60bc421",
+      "price": "139.300₫",
+      "content": "<p>Áo phông trơn, chất liệu cotton US pha.<br>Phom regular, cổ tròn, tay cộc.Kiểu dáng năng động, thoải mái. Thích hợp mặc nhiều hoàn cảnh.<br>Phù hợp mặc mùa hè.<br>Kết hợp với quần sóoc, jeans…với giày thể thao</p>",
+      "id": 5
+    },
+    {
+      "cateId": "3",
+      "name": "ÁO PHÔNG BÉ GÁI ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-15bc5.appspot.com/o/images%2F1ts20s022-sg069-1.jpg?alt=media&token=7fe2b22b-9e52-49a2-b875-9d5ad54566f9",
+      "price": "99.000₫",
+      "content": "<p>Áo phông trơn, chất liệu cotton.<br>Phom regular, cổ tròn, tay cộc.<br>Buộc nơ gấu áo.</p>",
+      "id": 6
+    },
+    {
+      "cateId": "3",
+      "name": "ÁO PHÔNG BÉ GÁI MICKEY",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-15bc5.appspot.com/o/images%2F1ts20s021-sr133-2.jpg?alt=media&token=708ce1f8-d424-4464-93dc-f19eb26ece42",
+      "price": "99.000₫",
+      "content": "<p>Áo phông in hình trước ngực, chất liệu cotton US.<br>Phom regular, cổ tròn, tay cộc.</p>",
+      "id": 7
+    },
+    {
+      "cateId": "3",
+      "name": "QUẦN SOÓC BÉ TRAI",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-15bc5.appspot.com/o/images%2F2bs20s020-sj555-1-thumb.jpg?alt=media&token=c6f275a5-5882-4c91-8222-df2623808f94",
+      "price": "174.300₫",
+      "content": "<p>Quần soóc trơn, chất liệu denim cotton pha. Phom regular, dáng cộc. Túi hàm ếch, cạp chun. Đơn giản, thoải mái, phù hợp nhiều hoàn cảnh. Thích hợp mặc quanh năm. Kết hợp với áo phông…với sandal, giày thể thao…</p>",
+      "id": 8
+    },
+    {
+      "cateId": "3",
+      "name": "ÁO PHÔNG BÉ TRAI",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-15bc5.appspot.com/o/images%2F2ts20s020-sg260_-01_.jpg?alt=media&token=e984f4dc-36b3-492e-b5e7-b5626eeddc5d",
+      "price": "139.300₫",
+      "content": "<p>Áo phông chất liệu cotton in hình thân trước.<br>Phom regular, cổ tròn, tay cộc.</p><p><a href=\"https://canifa.com/catalog/product/view/id/209730/s/ao-phong-be-trai-2ts20s020/category/239/#product-detail-tab-content-2\">CHẤT LIỆU</a></p><p>100% cotton.</p>",
+      "id": 9
+    }
+  ],
+  "cateBlogs": [
+    {
+      "name": "Phong Cách",
+      "id": 1
+    },
+    {
+      "name": "Công Sở",
+      "id": 3
+    },
+    {
+      "name": "Trẻ Trung",
+      "id": 4
+    }
+  ],
+  "blogs": [
+    {
+      "cateId": "4",
+      "title": "Thời trang cho mùa hè",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-15bc5.appspot.com/o/images%2F8ts20s042-sw001_-1-thumb.jpg?alt=media&token=e74ab419-744b-4be3-ab4b-d97b961210cc",
+      "description": "Thời trang Fashi",
+      "content": "<p>Thời trang <strong>New Look</strong> là sự phản ánh thời đại của nó, và mùa hè của sự thay đổi triệt để chắc chắn sẽ để lại dấu ấn của nó, ngay cả trên những thiết kế cao cấp. Thế giới giờ đã khác&nbsp;</p><p>&nbsp;</p>",
+      "id": 1
+    },
+    {
+      "cateId": "4",
+      "title": "Xu hướng thời trang năm 2020",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-15bc5.appspot.com/o/images%2F8ts20s027-sw001-1-thumb.jpg?alt=media&token=5b3fcb38-7fa0-4a8e-8818-561336670ee5",
+      "description": "Thời trang Fashi",
+      "content": "<p>Áo phông kẻ chất liệu cotton phaPhom regular, cổ tròn, tay cộc rất phù hợp cho xu hướng xuân hè năm 2020.Đặc biệt hơn bởi sự kết hợp đơn giản nhưng vô cùng độc đáo của NTK….</p>",
+      "id": 2
+    }
+  ]
+}
